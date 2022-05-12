@@ -1,0 +1,5 @@
+prefixes:
+  aht20: ..
+packages:
+  ..:
+    path: ..
